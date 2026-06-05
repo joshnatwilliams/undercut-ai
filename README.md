@@ -1,4 +1,4 @@
-# Undercut AI 🏎️🏁
+# Undercut AI 🏎️ 🏁
 
 AI-powered Formula 1 race engineering assistant that analyzes telemetry, timing, tire strategy, and race data to generate engineer-style debriefs and strategic insights.
 
